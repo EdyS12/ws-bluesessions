@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: "Suisse Int'l";
+  background: linear-gradient(0deg, #251d33 20%, #908c99 67.09%, #fafaff 86.55%),
+    #251d33;
+  /*font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;*/
+  overflow-x: hidden;
+}
+
+#imagem {
+  color: #251d33;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
